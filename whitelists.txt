@@ -1,0 +1,10 @@
+# whitelists
+#
+# author: rei
+#
+# last updated: 2023/11/11
+# allow hosts: 1 entry
+
+# youtube.com
+s.youtube.com
+ads.youtube.com
