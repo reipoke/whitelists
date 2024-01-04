@@ -1,0 +1,11 @@
+# whitelists
+#
+# author: rei
+#
+# last updated: 2023/11/11
+# allow hosts: 1 entry
+
+# ads
+adserver.assistads.net
+go.xlivrdr.com
+go.zybrdr.com
